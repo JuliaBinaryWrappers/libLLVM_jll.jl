@@ -17,7 +17,7 @@ libllvm_path = ""
 libllvm_handle = C_NULL
 
 # This must be `const` so that we can use it with `ccall()`
-const libllvm = "libLLVM-9jl.so"
+const libllvm = "libLLVM-8jl.so"
 
 
 # Relative path to `llvm_config`
