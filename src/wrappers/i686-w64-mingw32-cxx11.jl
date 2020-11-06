@@ -8,13 +8,13 @@ function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libllvm,
-        "bin/LLVM.dll",
+        "bin\\LLVM.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_executable_product(
         llvm_config,
-        "tools/llvm-config.exe",
+        "tools\\llvm-config.exe",
     )
 
     JLLWrappers.@generate_init_footer()
