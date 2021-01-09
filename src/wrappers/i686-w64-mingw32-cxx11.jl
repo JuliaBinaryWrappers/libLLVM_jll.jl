@@ -9,7 +9,7 @@ function __init__()
     JLLWrappers.@init_library_product(
         libllvm,
         "bin\\LLVM.dll",
-        RTLD_LAZY | RTLD_DEEPBIND,
+        nothing,
     )
 
     JLLWrappers.@init_executable_product(
