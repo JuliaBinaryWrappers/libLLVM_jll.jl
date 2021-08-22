@@ -2,7 +2,7 @@
 export libllvm, llvm_config
 
 JLLWrappers.@generate_wrapper_header("libLLVM")
-JLLWrappers.@declare_library_product(libllvm, "libLLVM-12jl.so")
+JLLWrappers.@declare_library_product(libllvm, "libLLVM-11jl.so")
 JLLWrappers.@declare_executable_product(llvm_config)
 function __init__()
     JLLWrappers.@generate_init_header()
