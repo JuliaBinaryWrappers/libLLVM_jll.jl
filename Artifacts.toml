@@ -1,11 +1,11 @@
 [[libLLVM]]
 arch = "aarch64"
-git-tree-sha1 = "a80197794fce893e64e80b886ef24339c2c07ce7"
+git-tree-sha1 = "43b12f1a046a09d51d0f693bb7f8a68b61baf395"
 os = "macos"
 
     [[libLLVM.download]]
-    sha256 = "e1f1c60620ec48c1757d1c2ff85e485e4d1114fe217c9c09253f17482f979ba0"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "6a15a04491036a3c60f1916aa044bbf8804eb48d2703eac28e7d168eeb2ab12b"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.aarch64-apple-darwin.tar.gz"
 [[libLLVM]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -14,8 +14,8 @@ libc = "glibc"
 os = "linux"
 
     [[libLLVM.download]]
-    sha256 = "15b14c244c87fcd1a396cb9ec6eb280e552d33e115067a0ba9f9de55318db0ab"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "6c60b75154a68d37c981913bc2f71897c0505787175a5e50906f2578c3d71761"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.aarch64-linux-gnu-cxx03.tar.gz"
 [[libLLVM]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -24,8 +24,8 @@ libc = "glibc"
 os = "linux"
 
     [[libLLVM.download]]
-    sha256 = "80f1bfd8d5ff8ca4ff1aac7c605993861ee561fb5988b7982e3c838f5b5f4670"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "294d00c5a8cca3133c39636edfc5552446db15e561af7ae9bc56c3031431e120"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.aarch64-linux-gnu-cxx11.tar.gz"
 [[libLLVM]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -34,8 +34,8 @@ libc = "musl"
 os = "linux"
 
     [[libLLVM.download]]
-    sha256 = "b3ba26d138d1595e9730d171ca425568f43e3f13d78d0d221cd5bcb01fabe0d7"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "523e9d129a51dcd9d75b62f548126df9db607c369b09772778748cf7f737df8f"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.aarch64-linux-musl-cxx03.tar.gz"
 [[libLLVM]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -44,8 +44,8 @@ libc = "musl"
 os = "linux"
 
     [[libLLVM.download]]
-    sha256 = "a0bbff503238563dbbf646837e75b3784d8d1d4a8d44a7ab5f6eb9dca5986cf2"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "14505f6faf18884fb5193d1889f26c9fbfff773df5dd45d8520ae6141f70b468"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.aarch64-linux-musl-cxx11.tar.gz"
 [[libLLVM]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -55,8 +55,8 @@ libc = "glibc"
 os = "linux"
 
     [[libLLVM.download]]
-    sha256 = "7d683f8877b3ce1fa33abdbf1937172c75317bb3c1bc787c131945492a7bfc11"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "69974531bf51bbd65cc53649eb61dd485784af5551d87b3e55d541c6e8055e38"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[libLLVM]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -66,8 +66,8 @@ libc = "glibc"
 os = "linux"
 
     [[libLLVM.download]]
-    sha256 = "1fd734d8d0c95f285a1384e294b1020f4adfea0939e484bba12b7d2ca34501bc"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "c7d42e37850755863179bcc992642ec6061755a95f7721bb3e506e441392c40f"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[libLLVM]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -77,8 +77,8 @@ libc = "musl"
 os = "linux"
 
     [[libLLVM.download]]
-    sha256 = "60653aacf0e6a50da7adcd8307a68445e9c4338b47c2826700b40b54affeb26e"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "5280cc5f5dbf20815eac97c8cbcf339d750d9ad280f7ed93fa57400f89d141b4"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[libLLVM]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -88,8 +88,8 @@ libc = "musl"
 os = "linux"
 
     [[libLLVM.download]]
-    sha256 = "26af0366e3b3e642e30daa33e7dd2da0a026d3a79e28fef05aff824dde6ab693"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "7bfdef89c273d0b7ebb32d720d92f66ba00dd0fe067a527ae48fa150b0aad303"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[libLLVM]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -99,8 +99,8 @@ libc = "glibc"
 os = "linux"
 
     [[libLLVM.download]]
-    sha256 = "a73d92554a7a4804fb87745133a2612aff82a4ee8aa4dc35e659ad28c14863e4"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "4b85125929beabfd82ca2a4023d5f538b12e9c5c7edb83856bcfc06463924745"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[libLLVM]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -110,8 +110,8 @@ libc = "glibc"
 os = "linux"
 
     [[libLLVM.download]]
-    sha256 = "8007587a7083e0f1ec37fe533be5180294e04907ff5303f58e8d9e3b6c03e094"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "8d3fefca5edc8cbaa5d308bbcc94017bdbe553479886f4bb786c1446069279da"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[libLLVM]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -121,8 +121,8 @@ libc = "musl"
 os = "linux"
 
     [[libLLVM.download]]
-    sha256 = "6811750396c508c075544e22ab3df264302e62b07772139a3c20e3bded6a8e72"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "d64f5f5cb8d563167f1d9b9e85a1ccc06513cdebe04d706552b3186128141944"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[libLLVM]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -132,66 +132,66 @@ libc = "musl"
 os = "linux"
 
     [[libLLVM.download]]
-    sha256 = "570ff292022b39a2241638533b4cad399cb512d5aa9a50da76544ec9081a089a"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "13e10456120f2802bdc863906dc31fd61339347839c54031c17f5d9d177387d9"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[libLLVM]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "95241da12c230207f348cb2d02f0ec90d80cb823"
+git-tree-sha1 = "59ef04caf109a30497a173a04ef521b412f163c6"
 libc = "glibc"
 os = "linux"
 
     [[libLLVM.download]]
-    sha256 = "9b68787384ee88aa09ed1e4d892bf942e9349362707ce88c6db0e36d8fb7348d"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "df83abf6fe9cfd022a6143211dc7e7ee3ac7033556b7d41561ca767692e0bfc0"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.i686-linux-gnu-cxx03.tar.gz"
 [[libLLVM]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b3508b979ab0b4ee3e927bd3f0e4547dd0547c87"
+git-tree-sha1 = "132638642ddc8466d2af9de77857b7c62c673dc1"
 libc = "glibc"
 os = "linux"
 
     [[libLLVM.download]]
-    sha256 = "583f8fb73f927690965fbbb1016da8300c1057bc2b72214ad65ae2b586af8064"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "348f29cf28cc8167ba9f86f078c66bcb523916c7bf6e27133df1a0da776c5d77"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.i686-linux-gnu-cxx11.tar.gz"
 [[libLLVM]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c9b6db4d003388016dbf7318eb548c4e7f858b71"
+git-tree-sha1 = "587ef3763a84213b3c0d643b27c673628bd6f16f"
 libc = "musl"
 os = "linux"
 
     [[libLLVM.download]]
-    sha256 = "8b2a2e3ad18ef5369a90f463ef3702bae4f12401d6b1fdb295a72a63b1f45862"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "69e38da3a52b1d0ebf8bba666225153f24c0ae82c75217f291c2e5ac0f23e6cc"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.i686-linux-musl-cxx03.tar.gz"
 [[libLLVM]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "011dc549249233c46ec48da0a44bcf4c54573d9c"
+git-tree-sha1 = "8028a57b2c8fc60904556f659ff968c4b0dda89e"
 libc = "musl"
 os = "linux"
 
     [[libLLVM.download]]
-    sha256 = "1958699cfe45f63d26132dcd6fbaf0ee987bf884e9e75713a7cca697e2492b2a"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "fbd3868bccc99f2f4e0cec496dc8fbfd3cc28fe50c5c29987f620400409f312a"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.i686-linux-musl-cxx11.tar.gz"
 [[libLLVM]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1bb55446046e78ec8e6876224a92f6b02cc8ae78"
+git-tree-sha1 = "65cdc88d62e5b25e0f46f409c15422d508c6a822"
 os = "windows"
 
     [[libLLVM.download]]
-    sha256 = "951d8ca02673f3c0f26521f29584ecfa915cbd541ea9c585d00b4e5e6148819b"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "86f0df73dd87c6d7e5a9e46194c651dd09aac3f286a7fa329cfb3b0b1b95bcf3"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.i686-w64-mingw32-cxx03.tar.gz"
 [[libLLVM]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a78f8fbc9977b211620676a616a650e1dd9e79fe"
+git-tree-sha1 = "4cd73f82e10e81b3cdef527acf0f60cd30a3b0a5"
 os = "windows"
 
     [[libLLVM.download]]
-    sha256 = "73dba6888912314e7fe84cb3bcba749c8b1dbe9144bfed6d20d7961f02c82847"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "497e2bb16440af906d47d4f7d08768eb4c1c837ccaf9775da4dfb212b8cea635"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.i686-w64-mingw32-cxx11.tar.gz"
 [[libLLVM]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -200,8 +200,8 @@ libc = "glibc"
 os = "linux"
 
     [[libLLVM.download]]
-    sha256 = "a4787a4eb33f1fd43c4c2142fb18d6dd4ca49431ca6cf2b0fc2f7bb2ac2e24b6"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "04780c3c33502772109633784f3ccd7dfdf3dfaa8b18e909e0f9cb98ac81f080"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[libLLVM]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -210,79 +210,79 @@ libc = "glibc"
 os = "linux"
 
     [[libLLVM.download]]
-    sha256 = "1b0e211afd7a4e79fb7a6e6603c0c651455706954c7143550569e1eacfc39392"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "0c1209f0f3993bd813123c42769748471be687dbccddb80b5a4b063faea28552"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[libLLVM]]
 arch = "x86_64"
-git-tree-sha1 = "7adb364f92bb06cde6b9890f5a3a331903513f4c"
+git-tree-sha1 = "8175d92b07a398f43204ef24904bfb33681e0d3e"
 os = "macos"
 
     [[libLLVM.download]]
-    sha256 = "ce3e738ecf6fb8cc047a5dc065ed0bb2807c4b8436d7066aecc557425bc8124e"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "3402731c5f9ca6b367e08fc4ee472b16da0a1c5ac0e4f3da050b8b6348ebb93c"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.x86_64-apple-darwin.tar.gz"
 [[libLLVM]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ad1b749603bac97a2e9ecf9352e9d5f2b8eeb9ce"
+git-tree-sha1 = "620d0df5e8bf4a5532307dac5256a18cf1fe4b61"
 libc = "glibc"
 os = "linux"
 
     [[libLLVM.download]]
-    sha256 = "98404a826a0e1c02bf3fcd0e5fe6e551798bdcb4a373dfa63211c57f183077ee"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "ba50946e9c065a984873bc60c3cbdb8bb6f7c440097f29607bb56befd0125044"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.x86_64-linux-gnu-cxx03.tar.gz"
 [[libLLVM]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f44b01d13eae3541a1bdc7d13b221a1c4c3cd941"
+git-tree-sha1 = "8b8100aceb60bf08885d6d7bee9a29ce7339a2f5"
 libc = "glibc"
 os = "linux"
 
     [[libLLVM.download]]
-    sha256 = "a537c46ed98fd09d7e41116f8e3676fabbffbab40888c318c14f46de12274330"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "83e6a7ef172624cc8c0b6feb847d9866740b4e8b88f49f25d9f0015baa9b6b9d"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.x86_64-linux-gnu-cxx11.tar.gz"
 [[libLLVM]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "fc7d23699b112cdc326249767c93a91e1fecfe8c"
+git-tree-sha1 = "e584f2adc06468233ed297d13c441e75d0afcef8"
 libc = "musl"
 os = "linux"
 
     [[libLLVM.download]]
-    sha256 = "37160409a3d256ccdd84128edf82cee1824dfa99bc8a78b909820bf13709e0dd"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "a4098b12f2a1b5cb986fd33d88d4089b87d3989ba3afb0765fccf52633e55e37"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.x86_64-linux-musl-cxx03.tar.gz"
 [[libLLVM]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dfecef619afedcd84eee442ecda1a92432dc963d"
+git-tree-sha1 = "b58e1ef3e7af47a319ea3555368b13bf5664478c"
 libc = "musl"
 os = "linux"
 
     [[libLLVM.download]]
-    sha256 = "b18749c3249dc20a67a306f76043a453e921bf3f9c365e62d9c66b3115b4e2d1"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "c7dd308debb3e07a5ff709a5f5f2573fd78ae411a3eca18978ab116e70ba2a63"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.x86_64-linux-musl-cxx11.tar.gz"
 [[libLLVM]]
 arch = "x86_64"
-git-tree-sha1 = "267dced1f5a4657c54a6f01628d598270b6d85fc"
+git-tree-sha1 = "f321966e5a9d3260f3478533a39eacbd8c070585"
 os = "freebsd"
 
     [[libLLVM.download]]
-    sha256 = "17f553ec0c48ab3c0aa98412e2e243f4d14bdd3875f29c4c11eb793a710810fc"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "1ab6459601b9add3e8efee24e81114a50681fcf68f4e36d7b235fc1889e146da"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.x86_64-unknown-freebsd.tar.gz"
 [[libLLVM]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "eba8b1b94b23e1ff2bba0128b3da5a18f677510c"
+git-tree-sha1 = "2674530939bf1c17f569bef01b704b0829c7a12a"
 os = "windows"
 
     [[libLLVM.download]]
-    sha256 = "97337ac4ff842bf9bafe4784475adf45279b77a42e342a06d3f8e81254f63c0a"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "e9b468242a188a82e3ee05db9c0e4c637fa7dd849fa45257099e621e3a26e6c0"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.x86_64-w64-mingw32-cxx03.tar.gz"
 [[libLLVM]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "714fbdaa74e8306578d30d5d6cf3d0140de0b6c6"
+git-tree-sha1 = "e1e75298fccd7217319f5c5dec95d92357a4ba03"
 os = "windows"
 
     [[libLLVM.download]]
-    sha256 = "06af3720844b32874e6c707190a3afc25c6f0afcd248eed254cced03b9d378af"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+1/libLLVM.v12.0.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "da980b93c91aaeb265e41a34c95254cebdff61c98ea908889834c669a7a622fc"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v12.0.1+2/libLLVM.v12.0.1.x86_64-w64-mingw32-cxx11.tar.gz"
