@@ -3,13 +3,13 @@ export libllvm, llvm_config
 
 using Zlib_jll
 JLLWrappers.@generate_wrapper_header("libLLVM")
-JLLWrappers.@declare_library_product(libllvm, "libLLVM.dll")
+JLLWrappers.@declare_library_product(libllvm, "libLLVM-13jl.dll")
 JLLWrappers.@declare_executable_product(llvm_config)
 function __init__()
     JLLWrappers.@generate_init_header(Zlib_jll)
     JLLWrappers.@init_library_product(
         libllvm,
-        "bin\\libLLVM.dll",
+        "bin\\libLLVM-13jl.dll",
         nothing,
     )
 
