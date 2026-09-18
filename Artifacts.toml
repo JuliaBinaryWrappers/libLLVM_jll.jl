@@ -6,7 +6,7 @@ os = "macos"
 
     [[libLLVM.download]]
     sha256 = "83b04abdcb9c679ab3d5f125329766ef3230e5c360f25dc45253b1cbed59f2a8"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.aarch64-apple-darwin-llvm_version+23.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.aarch64-apple-darwin-llvm_version+23.tar.gz"
 [[libLLVM]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -17,7 +17,7 @@ os = "linux"
 
     [[libLLVM.download]]
     sha256 = "134f4843f4f720430ee71ac39828d0f8c2c72675090061e5565b2b185e009e29"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.aarch64-linux-gnu-cxx11-llvm_version+23.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.aarch64-linux-gnu-cxx11-llvm_version+23.tar.gz"
 [[libLLVM]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -28,7 +28,7 @@ os = "linux"
 
     [[libLLVM.download]]
     sha256 = "deacb004c90cf2a025661fdf6fe15c0e6327dff3c0fece540346796153e80a47"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.aarch64-linux-musl-cxx11-llvm_version+23.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.aarch64-linux-musl-cxx11-llvm_version+23.tar.gz"
 [[libLLVM]]
 arch = "aarch64"
 git-tree-sha1 = "3aa532a8124557bb41baf4974e1f28ebcfaa926a"
@@ -37,7 +37,7 @@ os = "freebsd"
 
     [[libLLVM.download]]
     sha256 = "3b62f103d9a4660b1f04b6cc888f602f80b0975851929fb409849a0a1ee257a0"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.aarch64-unknown-freebsd-llvm_version+23.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.aarch64-unknown-freebsd-llvm_version+23.tar.gz"
 [[libLLVM]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -49,7 +49,7 @@ os = "linux"
 
     [[libLLVM.download]]
     sha256 = "6cd853001e615f787e971b1f8738bb95158cc5984492038235bde5858fa05966"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.armv6l-linux-gnueabihf-cxx11-llvm_version+23.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.armv6l-linux-gnueabihf-cxx11-llvm_version+23.tar.gz"
 [[libLLVM]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -61,7 +61,7 @@ os = "linux"
 
     [[libLLVM.download]]
     sha256 = "f236d9d919563fe38d46aacee7401422b34d0cf42c2ec4942552771f48f8d84a"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.armv6l-linux-musleabihf-cxx11-llvm_version+23.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.armv6l-linux-musleabihf-cxx11-llvm_version+23.tar.gz"
 [[libLLVM]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -73,7 +73,7 @@ os = "linux"
 
     [[libLLVM.download]]
     sha256 = "3ebb734c4ed9b3a45f5b8413a930c4b5bdcb4e2cce8109be78d0392c5853ab9a"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.armv7l-linux-gnueabihf-cxx11-llvm_version+23.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.armv7l-linux-gnueabihf-cxx11-llvm_version+23.tar.gz"
 [[libLLVM]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -85,7 +85,7 @@ os = "linux"
 
     [[libLLVM.download]]
     sha256 = "c8a2c9fb54485cea3912d784b67f8ffca9b61f339c507ca036a211a99a5737ef"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.armv7l-linux-musleabihf-cxx11-llvm_version+23.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.armv7l-linux-musleabihf-cxx11-llvm_version+23.tar.gz"
 [[libLLVM]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -96,7 +96,7 @@ os = "linux"
 
     [[libLLVM.download]]
     sha256 = "5917dd6053d31ef2ef669c05c6f11a5e70848090a4bde47258d61f4e848e37b7"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.i686-linux-gnu-cxx11-llvm_version+23.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.i686-linux-gnu-cxx11-llvm_version+23.tar.gz"
 [[libLLVM]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -106,7 +106,7 @@ os = "windows"
 
     [[libLLVM.download]]
     sha256 = "47990e4f6c5a21f65d25543d0febd0720d26984371e82b4fbe322f533dce3b09"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.i686-w64-mingw32-cxx11-llvm_version+23.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.i686-w64-mingw32-cxx11-llvm_version+23.tar.gz"
 [[libLLVM]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -117,7 +117,7 @@ os = "linux"
 
     [[libLLVM.download]]
     sha256 = "ec53c5ebe2472329d9282a8385e1e9cffdfc6264aaa7397087a5e268a3c813ec"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.powerpc64le-linux-gnu-cxx11-llvm_version+23.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.powerpc64le-linux-gnu-cxx11-llvm_version+23.tar.gz"
 [[libLLVM]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
@@ -128,7 +128,7 @@ os = "linux"
 
     [[libLLVM.download]]
     sha256 = "939b0e610cb802fb831bc8800df340b1a16df4c71e9283854c6470ee78c49a50"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.riscv64-linux-gnu-cxx11-llvm_version+23.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.riscv64-linux-gnu-cxx11-llvm_version+23.tar.gz"
 [[libLLVM]]
 arch = "x86_64"
 git-tree-sha1 = "e1655b16fd36b57cc5f2191af4f993e2ebbeaa38"
@@ -137,7 +137,7 @@ os = "macos"
 
     [[libLLVM.download]]
     sha256 = "a157d26beaf376b253059c0d673022f060f03b1cf6b2a057f966e030b5005e8c"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.x86_64-apple-darwin-llvm_version+23.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.x86_64-apple-darwin-llvm_version+23.tar.gz"
 [[libLLVM]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -148,7 +148,7 @@ os = "linux"
 
     [[libLLVM.download]]
     sha256 = "09299ff0493ef51d6f2d51c451b05f9d12e9dcf950534947950c646dfa5c27b1"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.x86_64-linux-gnu-cxx11-llvm_version+23.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.x86_64-linux-gnu-cxx11-llvm_version+23.tar.gz"
 [[libLLVM]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -160,7 +160,7 @@ sanitize = "memory"
 
     [[libLLVM.download]]
     sha256 = "09299ff0493ef51d6f2d51c451b05f9d12e9dcf950534947950c646dfa5c27b1"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+23.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+23.tar.gz"
 [[libLLVM]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -171,7 +171,7 @@ os = "linux"
 
     [[libLLVM.download]]
     sha256 = "b1764abd41e555b600291ec4ae6e9c17314c2f1fe562d0c059c1dd5ad8410843"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.x86_64-linux-musl-cxx11-llvm_version+23.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.x86_64-linux-musl-cxx11-llvm_version+23.tar.gz"
 [[libLLVM]]
 arch = "x86_64"
 git-tree-sha1 = "a281d3a90951a6dc534f841ce0fc450273d4de4c"
@@ -180,7 +180,7 @@ os = "freebsd"
 
     [[libLLVM.download]]
     sha256 = "38a8341761bdd2b47be3052106fea5e61f173be53095f4d523c912fb65f1d7b7"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.x86_64-unknown-freebsd-llvm_version+23.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.x86_64-unknown-freebsd-llvm_version+23.tar.gz"
 [[libLLVM]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -190,7 +190,7 @@ os = "windows"
 
     [[libLLVM.download]]
     sha256 = "c7a55fa2913f689b396bd6bfe221a1573ecd8c67db70423ee0ccd1e78e13b034"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.x86_64-w64-mingw32-cxx11-llvm_version+23.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.x86_64-w64-mingw32-cxx11-llvm_version+23.tar.gz"
 [[libLLVM]]
 arch = "aarch64"
 git-tree-sha1 = "95051edb00b5baf831daafcad43508b2262ec20e"
@@ -199,7 +199,7 @@ os = "macos"
 
     [[libLLVM.download]]
     sha256 = "c29436370f060d021cf30a056d02a99195315f3cb26572ac50225c922a8329c9"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.aarch64-apple-darwin-llvm_version+23.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.aarch64-apple-darwin-llvm_version+23.asserts.tar.gz"
 [[libLLVM]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -210,7 +210,7 @@ os = "linux"
 
     [[libLLVM.download]]
     sha256 = "125e87864f073ae3ec8a741289f630ba34bfdf53b41db78600efe1e6d7451af5"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.aarch64-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.aarch64-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
 [[libLLVM]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -221,7 +221,7 @@ os = "linux"
 
     [[libLLVM.download]]
     sha256 = "922f8b7aad1db122f52ea581c9a1f05f6c73473004ee8eb2aec585cf94c96a35"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.aarch64-linux-musl-cxx11-llvm_version+23.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.aarch64-linux-musl-cxx11-llvm_version+23.asserts.tar.gz"
 [[libLLVM]]
 arch = "aarch64"
 git-tree-sha1 = "903747669ea6f546e9ccc8f89ca2421be539efda"
@@ -230,7 +230,7 @@ os = "freebsd"
 
     [[libLLVM.download]]
     sha256 = "c6933641253a896c10c856f4ff16dccb57847016ea2d75b02a24a156e1183e81"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.aarch64-unknown-freebsd-llvm_version+23.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.aarch64-unknown-freebsd-llvm_version+23.asserts.tar.gz"
 [[libLLVM]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -242,7 +242,7 @@ os = "linux"
 
     [[libLLVM.download]]
     sha256 = "9e6980ffb51213f1e04699679cbc3a862bb2b22c264572c45fc00e5d593ff22d"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.armv6l-linux-gnueabihf-cxx11-llvm_version+23.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.armv6l-linux-gnueabihf-cxx11-llvm_version+23.asserts.tar.gz"
 [[libLLVM]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -254,7 +254,7 @@ os = "linux"
 
     [[libLLVM.download]]
     sha256 = "cb9a2339397ba419a9577fc7d40e1e71634839f4960ed7e21997077747e679df"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.armv6l-linux-musleabihf-cxx11-llvm_version+23.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.armv6l-linux-musleabihf-cxx11-llvm_version+23.asserts.tar.gz"
 [[libLLVM]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -266,7 +266,7 @@ os = "linux"
 
     [[libLLVM.download]]
     sha256 = "66bc350345f11da428e26747a81413e8ac322b57e2fc63d91d0961c456dd6d67"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.armv7l-linux-gnueabihf-cxx11-llvm_version+23.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.armv7l-linux-gnueabihf-cxx11-llvm_version+23.asserts.tar.gz"
 [[libLLVM]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -278,7 +278,7 @@ os = "linux"
 
     [[libLLVM.download]]
     sha256 = "ddeaea0418ee7fe46a055eed3029a25c64343ad30754df2db5b1bcdf34504888"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.armv7l-linux-musleabihf-cxx11-llvm_version+23.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.armv7l-linux-musleabihf-cxx11-llvm_version+23.asserts.tar.gz"
 [[libLLVM]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -289,7 +289,7 @@ os = "linux"
 
     [[libLLVM.download]]
     sha256 = "c8c6a44580c6ae4921b6d3e0a284e0f1771003389cc5f14073a6d72562254c31"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.i686-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.i686-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
 [[libLLVM]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -299,7 +299,7 @@ os = "windows"
 
     [[libLLVM.download]]
     sha256 = "f8e049e374f58b99a9158a0e3422fbf2d1313a1abebfa49182af08945d4a9c86"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.i686-w64-mingw32-cxx11-llvm_version+23.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.i686-w64-mingw32-cxx11-llvm_version+23.asserts.tar.gz"
 [[libLLVM]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -310,7 +310,7 @@ os = "linux"
 
     [[libLLVM.download]]
     sha256 = "c3caf7effa9929cc7c54b9f822be389172e87c4509665af9b2c0c28cd48e31c9"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.powerpc64le-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.powerpc64le-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
 [[libLLVM]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
@@ -321,7 +321,7 @@ os = "linux"
 
     [[libLLVM.download]]
     sha256 = "bbb1a036f3d4ab1281bf8c7e411262027f2585cb574486a12722ac38d66778f5"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.riscv64-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.riscv64-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
 [[libLLVM]]
 arch = "x86_64"
 git-tree-sha1 = "9d0101bb3165210ec8349d00bdf155104a5303b5"
@@ -330,7 +330,7 @@ os = "macos"
 
     [[libLLVM.download]]
     sha256 = "6799b5105833d4c7193bbf2cc5ac58888556ddf5fa5246c2e1039013a90de3b7"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.x86_64-apple-darwin-llvm_version+23.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.x86_64-apple-darwin-llvm_version+23.asserts.tar.gz"
 [[libLLVM]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -341,7 +341,7 @@ os = "linux"
 
     [[libLLVM.download]]
     sha256 = "32ab092fc7ea8af64965378d9513da27b8443456c053ac73ed4890e6344abf47"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.x86_64-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.x86_64-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
 [[libLLVM]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -353,7 +353,7 @@ sanitize = "memory"
 
     [[libLLVM.download]]
     sha256 = "32ab092fc7ea8af64965378d9513da27b8443456c053ac73ed4890e6344abf47"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+23.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+23.asserts.tar.gz"
 [[libLLVM]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -364,7 +364,7 @@ os = "linux"
 
     [[libLLVM.download]]
     sha256 = "97eee9cc05d473669c2174d65f7fdb96de75e9f3414d67483f32589453d14584"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.x86_64-linux-musl-cxx11-llvm_version+23.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.x86_64-linux-musl-cxx11-llvm_version+23.asserts.tar.gz"
 [[libLLVM]]
 arch = "x86_64"
 git-tree-sha1 = "953452e965851e2a5c7d1cc2e11af583ca2c102b"
@@ -373,7 +373,7 @@ os = "freebsd"
 
     [[libLLVM.download]]
     sha256 = "b0866ba2e74345e32c2a07dc4b5a71ecbbbe323984554b275be10438d0f0b96e"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.x86_64-unknown-freebsd-llvm_version+23.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.x86_64-unknown-freebsd-llvm_version+23.asserts.tar.gz"
 [[libLLVM]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -383,4 +383,4 @@ os = "windows"
 
     [[libLLVM.download]]
     sha256 = "f33befa276f1df2d1928f11c503f49d155daa7f4da5741ac2440c898bfe2d99a"
-    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+1/libLLVM.v23.1.1.x86_64-w64-mingw32-cxx11-llvm_version+23.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libLLVM_jll.jl/releases/download/libLLVM-v23.1.1+2/libLLVM.v23.1.1.x86_64-w64-mingw32-cxx11-llvm_version+23.asserts.tar.gz"
